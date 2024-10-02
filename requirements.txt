@@ -44,7 +44,7 @@ catboost==1.2.5
 cligj==0.7.2
 cloud-sql-python-connector==1.11.0
 cloudpathlib==0.16.0
-clyent==1.2.2
+clyent==1.2.1
 colorama==0.4.6
 colorlog==6.8.2
 colour==0.1.5
